@@ -1,3 +1,1 @@
-# Homework 2
-
-See Piazza for assignment instructions.
+Check Requirement.txt for requiremets
